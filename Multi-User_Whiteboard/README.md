@@ -10,7 +10,5 @@ First of all you need to open TCP server port at 8000. Later you can run main cl
 ## App Image
 
 ![Image from application](https://github.com/kislakba/ComputerNetworkProject/blob/master/image1.jpeg)
-## Developed By
 
- - Mert AĞCAKOYUN, Barış KIŞLAK, Mehmet ÖZCAN
 
